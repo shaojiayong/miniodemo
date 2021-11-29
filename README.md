@@ -1,0 +1,2 @@
+# miniodemo
+.netcore API miniodemo
